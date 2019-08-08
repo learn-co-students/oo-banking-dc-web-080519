@@ -1,3 +1,13 @@
 class Transfer
-  # your code here
+
+
+def initialize(sender, receiver, status)
+  @sender = sender
+  @receiver = receiver
+  @status = status
+
+
+end
+
+
 end
